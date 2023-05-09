@@ -1,0 +1,2 @@
+# MetaCraftersSolidityCodingPractice
+MetaCraftersSolidityCodingPractice contains solidity coding practices
