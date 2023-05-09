@@ -9,7 +9,7 @@ if you want to make some changes feel free to do so i would like to see the you 
 Authors
 Contributors names and contact info
 
-sarbaseeshganguly@gmail.com
+Gmail sarbaseeshganguly@gmail.com LinkedIn www.linkedin.com/in/sarbaseesh-ganguly-954a8a138
 
 License
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
