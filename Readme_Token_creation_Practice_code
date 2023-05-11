@@ -3,7 +3,11 @@
 This Solidity program is a simple "Token_creation_Practice_code" program that demonstrates the basic syntax and functionality of the Solidity programming language to add token and reduce tokens associated with an ethereum address. It is not a live programe to add and reduce tokens of an ethereum address but a practice code to show the logic behiend how mint and burn function work on an ethereum address in solidity programming language
 ## escription
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has token name ,token abbreg , totallsupply of token related to an ethereum address, Here My Token Name is "BNX" , The token  two function that add , reduce token associated with a hash address. This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has token name ,token abbreg , totallsupply of token related to an ethereum address, Here My Token Name is "BNX" , The token abbreviation(in short 'Abbre'), a mapping to the ethereum address with it's associated token Ballance.There are two functions that add , reduce token associated with an ethereum address . They are mint and burn. 
+
+mint function adds token to an specefic ethereum address. It has two parameters one is for the etheriam address and other is the volume of the tokens to be added to the ballance of the etheriam address.
+
+burn function deducts tokens form an specefic ethereum address. It has two parameters one is for the etheriam address and other is the volume of the tokens to be deducted from the ballance of the etheriam address.
 
 ## Getting Started
 
